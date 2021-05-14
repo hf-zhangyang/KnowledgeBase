@@ -1,2 +1,2 @@
-# Blogs
-record some usefull knowlede points
+# Blogs  (record some usefull knowlede points)
+
